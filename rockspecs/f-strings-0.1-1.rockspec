@@ -1,17 +1,9 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "f-strings"
 version = "0.1-1"
--- LuaDist source
 source = {
-  tag = "0.1-1",
-  url = "git://github.com/LuaDist-testing/f-strings.git"
+   url = "git://github.com/hishamhm/f-strings",
+   tag = "v0.1",
 }
--- Original source
--- source = {
---    url = "git://github.com/hishamhm/f-strings",
---    tag = "v0.1",
--- }
 description = {
    summary = [[String interpolation for Lua.]],
    detailed = [[
